@@ -76,9 +76,3 @@ python3 textblackjack.py
    - **Pygame**: Use mouse clicks to interact with buttons for hitting, standing, splitting, or doubling down.
    - **CLI**: Enter commands (e.g., `hit`, `stand`, `split`, `double`) to play.
 3. **Card Counting**: Track the Hi-Lo count displayed in the interface to inform your strategy.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
