@@ -65,9 +65,9 @@ python3 textblackjack.py
 
 #### Pygame UI
 
-![Main Table View](docs/screenshots/pygame_main.png)#### CLI UI
+<img width="451" alt="pygame_main1" src="https://github.com/user-attachments/assets/9d623c66-ecb7-4dba-8914-9bfb4e682f06" />
 
-![Text UI Example](docs/screenshots/cli_play.png)---
+<img width="451" alt="pygame_main2" src="https://github.com/user-attachments/assets/e60f4137-3d38-4686-b010-847bf2fa8e49" />
 
 ## 📖 How to Play
 
